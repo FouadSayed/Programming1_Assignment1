@@ -1,8 +1,8 @@
 /*
    Made by:
         Name:                                  ID:
-        Mohamed Samy Abdelsalam Elsebaey,      20200445    S3
-        Fouad Sayed Fouad Sayed,               20200384    S3
+        Mohamed Samy Abdelsalam Elsebaey      20200445    S3
+        Fouad Sayed Fouad Sayed,              20200384    S3
 */
 // The Solution of task 1
 #include <iostream>
